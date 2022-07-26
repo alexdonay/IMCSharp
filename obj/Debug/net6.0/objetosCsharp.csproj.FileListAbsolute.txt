@@ -1,0 +1,15 @@
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\obj\Debug\net6.0\objetosCsharp.csproj.AssemblyReference.cache
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\obj\Debug\net6.0\objetosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\obj\Debug\net6.0\objetosCsharp.AssemblyInfoInputs.cache
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\obj\Debug\net6.0\objetosCsharp.AssemblyInfo.cs
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\obj\Debug\net6.0\objetosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\bin\Debug\net6.0\objetosCsharp.exe
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\bin\Debug\net6.0\objetosCsharp.deps.json
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\bin\Debug\net6.0\objetosCsharp.runtimeconfig.json
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\bin\Debug\net6.0\objetosCsharp.dll
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\bin\Debug\net6.0\objetosCsharp.pdb
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\obj\Debug\net6.0\objetosCsharp.dll
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\obj\Debug\net6.0\refint\objetosCsharp.dll
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\obj\Debug\net6.0\objetosCsharp.pdb
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\obj\Debug\net6.0\objetosCsharp.genruntimeconfig.cache
+C:\Users\SUPORTE03\Desktop\projetos\objetosCsharp\obj\Debug\net6.0\ref\objetosCsharp.dll
