@@ -9,7 +9,7 @@ using System;
             Pessoa alexsander = new Pessoa("Alexsander", 20, 123456789);
             
             alexsander.altura = 1.90;
-            alexsander.peso = 102.0;
+            alexsander.peso = 65.0;
             Console.WriteLine("Nome: " + alexsander.nome);
             Console.WriteLine("Idade: " + alexsander.idade);
             Console.WriteLine("peso " + alexsander.peso + " Altura " + alexsander.altura + " IMC:" + alexsander.imc());  
